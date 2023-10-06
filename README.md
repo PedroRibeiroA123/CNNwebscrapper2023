@@ -16,4 +16,5 @@ Further detailed explanation is commented on the code but the general explanatio
 Considerations:
 
 Not every article will have keywords, but that is not a problem
+
 Some links lead to posts and articles that do not have a body, that is a problem, therefore those are not stored
