@@ -5,6 +5,8 @@ A python script that reads and stores relevant data from CNN articles released i
 
 This code was written as part of my University's Scientific Initiation program, which in my case focuses on machine learning and prediction algorithms
 
+This code is heavily based on information from this tutorial: https://brightdata.com/blog/how-tos/web-scraping-with-python
+
 Further detailed explanation is commented on the code but the general explanation is as follows:
 
 1. The program will collect all the news and aggregator ((an aggregator in this case is any subsection which in itself houses links to more articles such as world or bussiness)) links in cnn's main page
