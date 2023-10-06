@@ -4,6 +4,7 @@ A python script that reads and stores relevant data from CNN articles released i
 *I strongly advise compiling and running this on the terminal, as it takes quite a while to generate and in my experiences Pycharm was very slow*
 
 This code was written as part of my University's Scientific Initiation program, which in my case focuses on machine learning and prediction algorithms
+
 Further detailed explanation is commented on the code but the general explanation is as follows:
 
 1. The program will collect all the news and aggregator ((an aggregator in this case is any subsection which in itself houses links to more articles such as world or bussiness)) links in cnn's main page
