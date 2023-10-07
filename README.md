@@ -9,7 +9,7 @@ This was my first time writing in python and I did not care much for optimizing 
 
 This code is heavily based on information from this tutorial: https://brightdata.com/blog/how-tos/web-scraping-with-python
 
-Further detailed explanation is commented on the code but the general explanation is as follows:
+Further detailed explanation is commented in the code but the general explanation is as follows:
 
 1. The program will collect all the news and aggregator ((an aggregator in this case is any subsection which in itself houses links to more articles such as world or bussiness)) links in cnn's main page
 2. For each aggregator it will collect every available link to other articles
