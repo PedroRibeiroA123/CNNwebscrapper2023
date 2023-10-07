@@ -5,6 +5,8 @@ A python script that reads and stores relevant data from CNN articles released i
 
 This code was written as part of my University's Scientific Initiation program, which in my case focuses on machine learning and prediction algorithms
 
+This was my first time writing in python and I did not care much for optimizing the code, so long as I was satisfied with the results, I also usually don't comment my code so any strange phrasings can be blamed on that
+
 This code is heavily based on information from this tutorial: https://brightdata.com/blog/how-tos/web-scraping-with-python
 
 Further detailed explanation is commented on the code but the general explanation is as follows:
