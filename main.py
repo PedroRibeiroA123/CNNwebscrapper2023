@@ -32,6 +32,8 @@ cnt = 0
 while True:
     l2 = links[cnt]
     cnt += 1
+    #I set an arbitrary 5000 observations limit but you can take it out if you want and ride this to valhalla
+    #In my experience it didn't reach 5000 anyways
     if len(data_page) < 5000 and cnt < len(links):
         print("Progresso: " + str(cnt) + "/" + str(len(links)))
         temp = pageReader.pageread(cnt, data_page, l2, links)
