@@ -1,4 +1,4 @@
-# CNNwebscrapper2023
+# CNNwebscraper2023
 A python script that reads and stores relevant data from CNN articles released in 2023
 
 *I strongly advise compiling and running this on the terminal, as it takes quite a while to generate and in my experiences Pycharm was very slow*
